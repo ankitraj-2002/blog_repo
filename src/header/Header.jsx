@@ -4,12 +4,12 @@ export default function Header() {
     return (
         <div className="header">
             <div className="headerTitles">
-                <span className="headerTitlesSm">
+                <div className="headerTitlesSm">
                     React & node
-                </span>
-                <span className="headerTitlesLg">
+                </div>
+                <div className="headerTitlesLg">
                     blog
-                </span>
+                </div>
             </div>
             <img
                 className="headerImg"
